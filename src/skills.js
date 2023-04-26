@@ -1,0 +1,48 @@
+export default {
+  skills: [
+    {
+      webDev: [
+        "HTML",
+        "CSS",
+        "Java Script",
+        "Vue3",
+        "Bootstrap",
+        "Leaflet",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Node.js",
+        "Postman",
+        "Sourcetree",
+        "Wordpress",
+        "Firebase",
+        "Axios",
+      ],
+      threeD: [
+        "Blender",
+        "Unreal Engine 5",
+        "3ds Max",
+        "Cinema 4d",
+        "Corona render",
+        "World Creator",
+        "Gaea",
+        "Vray",
+        " Marvelous Designer",
+        "Substance Painter",
+        "Marmoset toolbag",
+        "Zbrush",
+        "AutoCad",
+        "ArchiCad",
+        "Lumen",
+        "Unreal Engine",
+        "Unity",
+      ],
+      webDesign: [
+        "Figma",
+         "Adobe Photoshop",
+         "Adobe Indesign",
+         "Adobe Illustrator",
+      ]
+    },
+  ],
+};
